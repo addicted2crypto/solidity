@@ -1,1 +1,1 @@
-# solitity/daily challenges for solidity problems.
+# solidity/daily challenges for solidity problems.
